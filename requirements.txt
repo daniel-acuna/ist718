@@ -7,7 +7,10 @@ certifi==2018.4.16
 chardet==3.0.4
 cycler==0.10.0
 decorator==4.3.0
+docker==3.3.0
+docker-pycreds==0.2.3
 entrypoints==0.2.3
+escapism==1.0.0
 html5lib==1.0.1
 idna==2.6
 ipykernel==4.8.2
@@ -21,6 +24,7 @@ jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
+jupyter-repo2docker==0.5.0
 jupyter-spark==0.4.0
 jupyterlab==0.32.1
 jupyterlab-launcher==0.10.5
@@ -32,6 +36,7 @@ matplotlib==2.2.2
 mistune==0.8.3
 nbconvert==5.3.1
 nbformat==4.4.0
+nbgrader==0.5.4
 notebook==5.5.0
 numpy==1.14.3
 pandas==0.23.0
@@ -47,10 +52,12 @@ pyparsing==2.2.0
 pyspark==2.3.0
 python-dateutil==2.7.3
 python-editor==1.0.3
+python-json-logger==0.1.8
 pytz==2018.4
 pyzmq==17.0.0
 qtconsole==4.3.1
 requests==2.18.4
+ruamel.yaml==0.15.37
 scikit-learn==0.19.1
 scipy==1.1.0
 seaborn==0.8.1
@@ -66,4 +73,5 @@ traitlets==4.3.2
 urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
+websocket-client==0.48.0
 widgetsnbextension==3.2.1
