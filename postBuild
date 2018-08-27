@@ -1,6 +1,0 @@
-#!/bin/bash
-
-jupyter serverextension enable --py jupyter_spark
-jupyter nbextension install --py jupyter_spark --user
-jupyter nbextension enable jupyter_spark --user --py
-jupyter nbextension enable --py widgetsnbextension
