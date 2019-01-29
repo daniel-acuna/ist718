@@ -1,7 +1,7 @@
 # IST 718: Advanced Information Analytics (or Big Data Analytics)
 
 Author:  
-(c) 2018 Daniel E. Acuña  
+(c) 2018, 2019 Daniel E. Acuña  
 http://acuna.io  
 Assistant Professor  
 School of Information Studies  
