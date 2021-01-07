@@ -30,7 +30,7 @@ jupyterhub==0.8.1
 jupyterlab==0.32.1
 jupyterlab-launcher==0.10.5
 kiwisolver==1.0.1
-lxml==4.2.1
+lxml==4.6.2
 Mako==1.0.7
 MarkupSafe==1.0
 matplotlib==2.2.2
